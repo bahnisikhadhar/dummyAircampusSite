@@ -121,14 +121,15 @@ a:hover {
     color: white;
     padding: 20px;
     font-size: 25px;
-    font-style: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-style: sans-serif;
     position: fixed;
     right: 20px;
     bottom: 200px;
 }
 .whatsapp {
-    height: 30px;
-    width: 40px;
+    width: 30px;
+    vertical-align: middle;
 }
 /* .fa {
     color: white;
