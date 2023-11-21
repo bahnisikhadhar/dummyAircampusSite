@@ -177,3 +177,22 @@ h3:hover {
     font-size: 22px;
     margin-top: 10px;
 }
+.hellobox {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.hello {
+    position: absolute;
+    top: 50%;
+    height: 200px;
+    width: 21.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 70% 70% 0 0 / 30% 30% 0 0;
+}
